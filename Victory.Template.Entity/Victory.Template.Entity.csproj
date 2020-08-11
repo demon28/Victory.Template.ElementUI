@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FreeSql" Version="1.7.1" />
+    <PackageReference Include="Victory.Core" Version="1.0.15" />
+  </ItemGroup>
+
+</Project>

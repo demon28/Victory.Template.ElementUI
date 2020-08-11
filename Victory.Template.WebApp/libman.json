@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "element-ui@2.13.2",
+      "destination": "wwwroot/lib/element-ui/"
+    },
+    {
+      "library": "axios@0.19.2",
+      "destination": "wwwroot/lib/axios/"
+    }
+  ]
+}
