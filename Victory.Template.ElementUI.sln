@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Victory.Template.Entity", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Victory.Template.Facade", "Victory.Template.Facade\Victory.Template.Facade.csproj", "{7AD8E499-5963-4287-8B0B-F3B48598B5A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Victory.Template.WebApi", "Victory.Template.WebApp\Victory.Template.WebApi.csproj", "{84852C32-9CAC-4BB2-8BBC-8DD7E6755F0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Victory.Template.WebApi", "Victory.Template.WebApi\Victory.Template.WebApi.csproj", "{26577E53-3FBD-46A3-855F-3EA325A4CA19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{7AD8E499-5963-4287-8B0B-F3B48598B5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AD8E499-5963-4287-8B0B-F3B48598B5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AD8E499-5963-4287-8B0B-F3B48598B5A0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84852C32-9CAC-4BB2-8BBC-8DD7E6755F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84852C32-9CAC-4BB2-8BBC-8DD7E6755F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84852C32-9CAC-4BB2-8BBC-8DD7E6755F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84852C32-9CAC-4BB2-8BBC-8DD7E6755F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26577E53-3FBD-46A3-855F-3EA325A4CA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26577E53-3FBD-46A3-855F-3EA325A4CA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26577E53-3FBD-46A3-855F-3EA325A4CA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26577E53-3FBD-46A3-855F-3EA325A4CA19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
